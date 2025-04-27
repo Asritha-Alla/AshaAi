@@ -1,0 +1,6 @@
+id,title,company,location,description,link
+1,Software Engineer,Google,Mountain View,CA,Looking for a software engineer with experience in Python and machine learning,https://careers.google.com/jobs/1
+2,Data Scientist,Microsoft,Redmond,WA,Seeking a data scientist with expertise in data analysis and visualization,https://careers.microsoft.com/jobs/2
+3,Product Manager,Amazon,Seattle,WA,Product manager role focusing on AI and machine learning products,https://careers.amazon.com/jobs/3
+4,UX Designer,Apple,Cupertino,CA,UX designer position for creating intuitive user interfaces,https://careers.apple.com/jobs/4
+5,DevOps Engineer,Netflix,Los Gatos,CA,DevOps engineer to help scale our streaming platform,https://careers.netflix.com/jobs/5 

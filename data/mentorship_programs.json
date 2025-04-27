@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Tech Leadership Mentorship",
+        "description": "One-on-one mentorship for women aspiring to tech leadership roles",
+        "duration": "6 months",
+        "mentor_requirements": "10+ years in tech leadership",
+        "mentee_requirements": "3+ years in tech industry",
+        "focus_areas": [
+            "leadership",
+            "career growth",
+            "technical skills"
+        ]
+    },
+    {
+        "title": "Career Transition Support",
+        "description": "Support for women transitioning to tech careers",
+        "duration": "3 months",
+        "mentor_requirements": "Experience in career transitions",
+        "mentee_requirements": "Interest in tech industry",
+        "focus_areas": [
+            "resume building",
+            "interview preparation",
+            "skill development"
+        ]
+    },
+    {
+        "title": "Entrepreneurship Guidance",
+        "description": "Mentorship for women starting their own tech ventures",
+        "duration": "12 months",
+        "mentor_requirements": "Successful tech entrepreneur",
+        "mentee_requirements": "Tech startup idea or early-stage venture",
+        "focus_areas": [
+            "business planning",
+            "funding",
+            "growth strategy"
+        ]
+    }
+]

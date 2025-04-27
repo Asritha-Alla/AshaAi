@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Women in Tech Conference 2024",
+        "description": "Annual conference celebrating women in technology",
+        "date": "2024-04-15",
+        "location": "Bangalore",
+        "organizer": "WomenTech Network",
+        "type": "conference"
+    },
+    {
+        "title": "Career Development Workshop",
+        "description": "Workshop on resume building and interview skills",
+        "date": "2024-04-20",
+        "location": "Mumbai",
+        "organizer": "SheLeads",
+        "type": "workshop"
+    },
+    {
+        "title": "Mentorship Program Launch",
+        "description": "Launch of new mentorship program for women in STEM",
+        "date": "2024-04-25",
+        "location": "Delhi",
+        "organizer": "EmpowerHer",
+        "type": "program"
+    }
+]
