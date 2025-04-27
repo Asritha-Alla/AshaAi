@@ -69,3 +69,4 @@ coverage/
 # Others
 *.sqlite3
 db.sqlite3
+.streamlit

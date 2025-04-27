@@ -155,10 +155,11 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load environment variables
-load_dotenv()
+# load_dotenv()
 
 # Configure Groq API
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+# GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 if not GROQ_API_KEY:
     st.error("GROQ_API_KEY environment variable is not set")
     st.stop()
